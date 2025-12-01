@@ -10,7 +10,7 @@ This repository contains my Week 2 technical blog titled **“Introduction to Ma
 - Clear explanations designed for beginners  
 
 ## 📄 File
-- `Introduction_to_Machine_Learning_Algorithms.pdf`
+file:///C:/Users/HP/Downloads/Week%202%20%E2%80%93%20Adediran%20Qudus%20%E2%80%93%20Introduction%20to%20Machine%20Learning%20Algorithms.pdf
 
 ## 🧠 Author  
 **Adediran Qudus**  
